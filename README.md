@@ -1,1 +1,1 @@
-# React_Sample_Apps
+# React.js Sample Apps, Just for learning
